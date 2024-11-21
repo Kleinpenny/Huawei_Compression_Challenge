@@ -1,0 +1,5 @@
+tqdm
+torch
+transformers
+accelerate
+bitsandbytes
